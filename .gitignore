@@ -1,0 +1,7 @@
+# Track ONLY source code project and experimental data
+/*
+!/src
+!/README.md
+!/LICENSE
+!/.gitignore
+!/pom.xml
